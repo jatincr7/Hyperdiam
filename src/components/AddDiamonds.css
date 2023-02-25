@@ -1,0 +1,23 @@
+.add-diamonds-container {
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
+  .add-diamonds-button {
+    background-color: #ff4081;
+    align-items: center;
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 1rem 2rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .button-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}

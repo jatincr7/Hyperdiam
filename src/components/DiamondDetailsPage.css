@@ -1,0 +1,49 @@
+.diamond-details-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+  }
+  
+  .diamond-details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f7f7f7;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    width: 50%;
+  }
+  
+  .diamond-details h1 {
+    margin-top: 0;
+    text-align: center;
+  }
+  
+  .diamond-details p {
+    margin-top: 10px;
+    font-size: 18px;
+  }
+  
+  .diamond-details span {
+    font-weight: bold;
+  }
+  
+  .diamond-details button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #0066cc;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .diamond-details button:hover {
+    background-color: #0052a3;
+  }
