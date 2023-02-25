@@ -9,6 +9,7 @@ import Retailer from "./components/Retailer";
 import Customer from "./components/Customer";
 import DiamondDetailsPage from "./components/DiamondDetailsPage";
 
+
 function App() {
   return (
     <Router>
